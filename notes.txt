@@ -1,0 +1,1 @@
+Dash daq could be interesting for use in indicating the extremeties of data
